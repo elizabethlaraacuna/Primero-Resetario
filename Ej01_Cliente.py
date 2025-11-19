@@ -19,4 +19,5 @@ boton_confirmar = tk.Button(ventana, text="Confirmar Venta", command=lambda: pri
 boton_confirmar.pack()
 
 # Iniciar la ventana
+
 ventana.mainloop()
